@@ -1,0 +1,26 @@
+﻿Hej Stefan!
+
+Här är en beskrivning av de patterns jag använt och var:
+
+1: gjorde en IInterestService(interface) och CachedInterestService för InterestService(som hämtar räntan från riksbanken).
+Nu kollas det endast mot riksbanken när värdet är 0 och inte varje gång man vill kolla vad räntan ligger på.
+Har även lagt till så att den endast kollar mot riksbanken om 24 timmar har passerat sedan senaste kollen mot riksbanken.
+På så vis så tar det inte lika lång tid att få fram räntan från riksbanken och vi slipper bli utelåsta från riksbanken
+pga för många anrop då vi endast anropar 1 gång/24h.
+
+
+2: gjort repository för databaserna. Gjorde en Interface for databashanterare och sen en databashanterarklass. Detta
+är bra pga om man vill använda customer databasen te.x så kan man nu applicera den vart som helst i koden, men behöver
+man göra ändringar från vart den hämtar all info så behöver man nu bara ändra det i databashanterar klassen och inte 
+i all annan kod.
+
+
+3: Retry pattern på Riksbankens ränta, för att hindra crash när flera kollar mot riksbankens ränta samtidigt.
+
+4: Lagt singleton på logger så att den inte skapar en ny loggfil varje gång man ska logga utan sparar in i befintliga.
+Hindrar även folk från att skapa upp "new logger" i HomeController koden.
+
+5: FLuent builder på finansinspektionens rapporteringar.Skapade upp en ny klass FinanceReport som hanterar en fluent builder.
+Lättare att kontrollera vilka värden som används och gör det svårare för andra att skriva fel värden på fel ställen etc.
+
+etc etc

@@ -1,0 +1,61 @@
+CallReceived - 2020-01-07 13:38:SS   some more useless info...
+ParametrarPage - 2020-01-07 13:38:SS  
+CallReceived - 2020-01-07 13:38:SS   some more useless info...
+ListCustomersPage - 2020-01-07 13:38:SS  
+CallReceived - 2020-01-07 13:38:SS   some more useless info...
+ListCustomersPage - 2020-01-07 13:48:SS  
+ViewCustomerPage - 2020-01-07 13:48:SS  199806135741
+ViewCustomerPage - 2020-01-07 13:49:SS  199003172727
+ListCustomersPage - 2020-01-07 13:54:SS  
+ViewCustomerPage - 2020-01-07 14:00:SS  7208031212
+ParametrarPage - 2020-01-07 14:01:SS  
+CallReceived - 2020-01-07 14:02:SS   some more useless info...
+CallReceived - 2020-01-10 20:21:SS   some more useless info...
+ParametrarPage - 2020-01-10 20:21:SS  
+ParametrarPage - 2020-01-10 20:23:SS  
+ParametrarPage - 2020-01-10 20:24:SS  
+ParametrarPage - 2020-01-10 20:32:SS  
+ParametrarPage - 2020-01-10 20:36:SS  
+ParametrarPage - 2020-01-10 20:39:SS  
+ParametrarPage - 2020-01-10 20:44:SS  
+ParametrarPage - 2020-01-10 20:46:SS  
+ParametrarPage - 2020-01-10 20:49:SS  
+ParametrarPage - 2020-01-10 20:51:SS  
+ParametrarPage - 2020-01-10 21:01:SS  
+ParametrarPage - 2020-01-10 21:02:SS  
+ParametrarPage - 2020-01-10 21:03:SS  
+ParametrarPage - 2020-01-10 21:12:SS  
+ParametrarPage - 2020-01-10 21:12:SS  
+ParametrarPage - 2020-01-10 21:22:SS  
+ParametrarPage - 2020-01-10 21:24:SS  
+ParametrarPage - 2020-01-10 21:24:SS  
+ListCustomersPage - 2020-01-11 10:53:SS  
+ListCustomersPage - 2020-01-11 10:56:SS  
+ListCustomersPage - 2020-01-11 10:59:SS  
+ViewCustomerPage - 2020-01-11 10:59:SS  7208031212
+ListCustomersPage - 2020-01-11 10:59:SS  
+ListCustomersPage - 2020-01-11 11:02:SS  
+ViewCustomerPage - 2020-01-11 11:02:SS  7208031212
+ListCustomersPage - 2020-01-11 11:36:SS  
+ViewCustomerPage - 2020-01-11 11:36:SS  199003172727
+ListCustomersPage - 2020-01-11 11:37:SS  
+ViewCustomerPage - 2020-01-11 11:37:SS  199003172727
+ParametrarPage - 2020-01-11 11:37:SS  
+ListCustomersPage - 2020-01-14 09:25:SS  
+ViewCustomerPage - 2020-01-14 09:25:SS  7208031212
+CallReceived - 2020-01-14 09:25:SS   some more useless info...
+ParametrarPage - 2020-01-14 09:25:SS  
+ListCustomersPage - 2020-01-14 09:32:SS  
+ViewCustomerPage - 2020-01-14 09:32:SS  7208031212
+ViewCustomerPage - 2020-01-14 09:32:SS  7208031212
+ParametrarPage - 2020-01-14 11:31:SS  
+ParametrarPage - 2020-01-14 11:31:SS  
+CallReceived - 2020-01-14 11:54:SS   some more useless info...
+CreatingCustomer - 2020-01-14 11:55:SS  846548945646
+CreatingLoan - 2020-01-14 11:55:SS  846548945646 637145997034087637  10000
+CallReceived - 2020-01-14 11:55:SS   some more useless info...
+CreatingLoan - 2020-01-14 11:55:SS  846548945646 637145997329721661  1000000
+CallReceived - 2020-01-14 11:56:SS   some more useless info...
+CreatingLoan - 2020-01-14 11:57:SS  846548945646 637145998390563166  10000
+CallReceived - 2020-01-14 11:58:SS   some more useless info...
+CreatingLoan - 2020-01-14 11:59:SS  846548945646 637145999565958727  10000
